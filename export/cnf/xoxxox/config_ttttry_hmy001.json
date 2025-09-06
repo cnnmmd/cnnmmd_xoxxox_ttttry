@@ -1,0 +1,11 @@
+{
+  "output": "normal",
+  "dictxt": {
+    "0": [
+      "<|channel|>analysis<|message|>t01<|end|>\n<|start|>assistant<|channel|>analysis<|message|>t02\nt03<|end|>\n<|start|>assistant<|channel|>final<|message|>a01\na02<|return|>"
+    ]
+  },
+  "conlog": "xoxxox/prompt_hmy001",
+  "maxlog": 2,
+  "status": "s"
+}
