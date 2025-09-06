@@ -1,0 +1,13 @@
+{
+  "output": "normal",
+  "dictxt": {
+    "0": [
+      "x",
+      "y",
+      "z"
+    ]
+  },
+  "conlog": "xoxxox/prompt_try001",
+  "maxlog": 2,
+  "status": "s"
+}

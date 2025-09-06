@@ -1,0 +1,18 @@
+{
+  "output": "normal",
+  "dictxt": {
+    "0": [
+        "彼＞こんにちは",
+        "あ〜と",
+        "彼＞こんばんわ"
+    ]
+  },
+  "conlog": "xoxxox/prompt_scr001",
+  "maxlog": 2,
+  "status": "これは、私と彼の会話だ。",
+  "rolslf": "私",
+  "roloth": "彼",
+  "inislf": "おはよう",
+  "inioth": "おはよう",
+  "nuloth": "え〜と"
+}

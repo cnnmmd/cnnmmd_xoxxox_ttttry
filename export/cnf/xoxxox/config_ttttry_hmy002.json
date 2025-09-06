@@ -1,0 +1,13 @@
+{
+  "output": "normal",
+  "dictxt": {
+    "0": [
+      "x<|return|>\nxxx",
+      "y\n<|return|>yyy",
+      "z<|return|>\n\nzzz"
+    ]
+  },
+  "conlog": "xoxxox/prompt_hmy002",
+  "maxlog": 2,
+  "status": "s"
+}
