@@ -1,0 +1,14 @@
+{
+  "output": "normal",
+  "dictxt": {
+    "0": [
+      "x",
+      "y",
+      "z"
+    ]
+  },
+  "expert": "xoxxox/ttttry_cmm001",
+  "conlog": "xoxxox/prompt_try001",
+  "maxlog": 2,
+  "status": "s"
+}
