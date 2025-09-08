@@ -5,12 +5,12 @@ from xoxxox.shared import Custom, LibLog
 
 class TttPrc:
 
-  def __init__(self, config="xoxxox/config_ttttry_000", **dicprm):
+  def __init__(self, config="xoxxox/config_ttttry_try000", **dicprm):
     diccnf = Custom.update(config, dicprm)
     self.dictxt = {}
     self.postxt = {}
 
-  def status(self, config="xoxxox/config_ttttry_000", **dicprm):
+  def status(self, config="xoxxox/config_ttttry_try000", **dicprm):
     diccnf = Custom.update(config, dicprm)
     if self.dictxt != diccnf["dictxt"]:
       self.dictxt = diccnf["dictxt"]
