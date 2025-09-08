@@ -12,4 +12,4 @@ services:
     - ./envdir.txt
     ports:
     - 10302:80
-    command: "python /opt/common/bin/xoxxox/srvttt.py --engine xoxxox/engine_ttttry"
+    command: "python /opt/common/bin/xoxxox/srvttt_opt.py --engine xoxxox/engine_ttttry"
