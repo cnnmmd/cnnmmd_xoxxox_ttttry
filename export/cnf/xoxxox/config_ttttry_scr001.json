@@ -1,19 +1,18 @@
 {
-  "output": "normal",
-  "dictxt": {
-    "0": [
-        "彼＞こんにちは",
-        "あ〜と",
-        "彼＞こんばんわ"
-    ]
-  },
+  "lsttxt": [
+      "彼＞こんにちは",
+      "あ〜と",
+      "彼＞こんばんわ"
+  ],
   "expert": "xoxxox/ttttry_scr001",
   "conlog": "xoxxox/prompt_scr001",
-  "maxlog": 2,
+  "maxlog": 4,
+  "maxtkn": 64,
   "status": "これは、私と彼の会話だ。",
-  "rolslf": "私",
-  "roloth": "彼",
-  "inislf": "おはよう",
-  "inioth": "おはよう",
-  "nuloth": "え〜と"
+  "rolusr": "私",
+  "rolagt": "彼",
+  "iniusr": "おはよう",
+  "iniagt": "おはよう",
+  "nuloth": "え〜と",
+  "sepcnv": "＞"
 }
