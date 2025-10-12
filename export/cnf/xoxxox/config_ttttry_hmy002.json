@@ -1,12 +1,9 @@
 {
-  "output": "normal",
-  "dictxt": {
-    "0": [
-      "x<|return|>\nxxx",
-      "y\n<|return|>yyy",
-      "z<|return|>\n\nzzz"
-    ]
-  },
+  "lsttxt": [
+    "x<|return|>\nxxx",
+    "y\n<|return|>yyy",
+    "z<|return|>\n\nzzz"
+  ],
   "expert": "xoxxox/ttttry_hmy002",
   "conlog": "xoxxox/prompt_hmy002",
   "maxlog": 2,
