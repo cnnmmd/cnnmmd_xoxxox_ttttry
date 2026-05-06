@@ -1,0 +1,11 @@
+{
+  "lsttxt": [
+    "\nx<end_of_turn>",
+    "\ny<end_of_turn>",
+    "\nz<end_of_turn>"
+  ],
+  "expert": "xoxxox/ttttry_cmm001",
+  "conlog": "xoxxox/prompt_gem001",
+  "maxlog": 2,
+  "status": "s"
+}
